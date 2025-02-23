@@ -6,6 +6,6 @@ Some of my public work:
 - [CoPilot Stack](https://news.microsoft.com/source/features/ai/microsoft-outlines-framework-for-building-ai-apps-and-copilots-expands-ai-plugin-ecosystem/)
 - [Kernel Memory](https://github.com/microsoft/kernel-memory)
 
-![Contributions](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=dluc&include_orgs=true&show_icons=true&theme=transparent&show=reviews,prs_merged&hide=contribs&hide_title=true&ring_color=33cc33)
+![Contributions](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=dluc&include_orgs=true&show_icons=true&theme=transparent&show=reviews,prs_merged&include_all_commits=true&hide=contribs&hide_title=true&ring_color=33cc33)
 
 ![Languages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=dluc&include_orgs=true&show_icons=true&theme=transparent&langs_count=5&hide=rust&hide_title=true&layout=donut-vertical)
